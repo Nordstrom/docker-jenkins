@@ -1,4 +1,4 @@
-FROM jenkinsci/jenkins:2.49
+FROM jenkinsci/jenkins:2.51
 MAINTAINER Nordstrom Engineering Platform CI Team "techk8s@nordstrom.com"
 
 RUN mkdir -p /usr/share/jenkins/ref/secrets/ \

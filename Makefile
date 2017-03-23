@@ -1,6 +1,6 @@
 image_name := jenkins
 image_registry := quay.io/nordstrom
-image_release := 2.49
+image_release := 2.51
 
 .PHONY: build/image tag/image push/image
 
